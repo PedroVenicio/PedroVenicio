@@ -2,7 +2,7 @@
 Sou o Pedro, 17 anos e entusiasta por tecnologia e programação, vindo diretamente do sul de Santa Catarina<br>
 -🧐 3/4 curso técnico de informática<br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVenicio&layout=donut)
 
 ## Já mexi com:
 <div>
