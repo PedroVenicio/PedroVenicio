@@ -23,6 +23,6 @@ Sou o Pedro, 17 anos e entusiasta por tecnologia e programação, vindo diretame
 <a href="https://www.linkedin.com/in/pedro-venicio-vassoler-schimitez-a115a330a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-## Volte sempre 😘
+## Volte sempre 
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/dc88b551113095.58e33afb01709.gif" width=800 height=400>
