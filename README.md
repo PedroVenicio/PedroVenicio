@@ -1,8 +1,8 @@
 ## <h1>Primeiramente, seja bem vindo</h1>
 Sou o Pedro, 17 anos e entusiasta por tecnologia e programação, vindo diretamente do sul de Santa Catarina<br>
--🧐 3/4 curso técnico de informática<br><br>
+-🧐 4/4 curso técnico de informática<br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVenicio&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVenicio&layout=donut&theme=nightowl)
 
 ## Já mexi com:
 <div>
