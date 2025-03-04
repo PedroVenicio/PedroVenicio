@@ -1,6 +1,7 @@
 ## <h1>Primeiramente, seja bem vindo</h1>
-Sou o Pedro, 17 anos e entusiasta por tecnologia e programação, vindo diretamente do sul de Santa Catarina<br>
--🧐 4/4 curso técnico de informática<br><br>
+Sou o Pedro, 18 anos e entusiasta por tecnologia e programação, vindo diretamente do sul de Santa Catarina<br>
+- 4/4 curso técnico de informática<br><br>
+- Faculdade de Engenharia de Software pela SATC
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVenicio&layout=donut&theme=nightowl)
 
@@ -22,7 +23,3 @@ Sou o Pedro, 17 anos e entusiasta por tecnologia e programação, vindo diretame
 <a href = "mailto: pedrovenicio456@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/pedro-venicio-vassoler-schimitez-a115a330a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-## Volte sempre 
-
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/dc88b551113095.58e33afb01709.gif" width=800 height=400>
